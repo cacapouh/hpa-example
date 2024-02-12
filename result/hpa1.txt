@@ -1,0 +1,2 @@
+NAME         REFERENCE               TARGETS         MINPODS   MAXPODS   REPLICAS   AGE
+simple-app   Deployment/simple-app   <unknown>/50%   1         10        0          0s
